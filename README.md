@@ -1,6 +1,6 @@
-# WordlistMaker
+# Wordlist
 
-WordlistMaker adalah generator wordlist sederhana berbasis Python. Tool ini membuat variasi kata dari kata dasar, angka, simbol, gabungan kata, kapitalisasi, dan leetspeak sederhana.
+Wordlist adalah generator wordlist sederhana berbasis Python. Tool ini membuat variasi kata dari kata dasar, angka, simbol, gabungan kata, kapitalisasi, dan leetspeak sederhana.
 
 Gunakan hanya untuk kebutuhan sah, misalnya audit password sistem milik sendiri, lab keamanan, atau pemulihan akun yang Anda miliki.
 
@@ -30,7 +30,7 @@ WordlistMaker/
 Masuk ke folder tool:
 
 ```bash
-cd /home/kali/WordlistMaker
+cd /home/kali/Wordlist
 ```
 
 Buat wordlist dasar:
